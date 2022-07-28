@@ -13,14 +13,14 @@
 I'm a Computer Engineer B.E. program third year 
 
 skills:  
-- Python    
-- java  
-- Android studio
-
+- Java    
+- Python  
+- Android studio  
+- C and C++
 
 Also familiar with  
-- C and C++  
-- HTML and CSS
+- HTML, CSS and JavaScript
+- MySQL
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=VIKRANT17565&theme=merko&show_icons=true)](https://github.com/VIKRANT17565)
