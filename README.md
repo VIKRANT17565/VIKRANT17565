@@ -13,9 +13,8 @@
 I'm a Computer Engineer B.E. program third year 
 
 skills:  
-- Java    
-- Python  
-- C and C++
+- Java 
+- Python 
 
 Also familiar with  
 - HTML, CSS and JavaScript
