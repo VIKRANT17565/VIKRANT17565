@@ -13,13 +13,12 @@
 I'm a Computer Engineer B.E. program third year 
 
 skills:  
-- Java 
 - Python 
+- Flutter/Dart
 
 Also familiar with  
 - HTML, CSS and JavaScript
 - MySQL
-- Flutter/Dart
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=VIKRANT17565&theme=merko&show_icons=true)](https://github.com/VIKRANT17565)
