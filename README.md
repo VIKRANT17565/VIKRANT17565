@@ -10,7 +10,8 @@
 
 
 ## 🚀 About Me
-I'm a Computer Engineer B.E. program third year 
+I'm VIKRANT, Third Year(B.E. Computer Engineering) student at Thakur College Of Engineering and technology.
+
 
 skills:  
 - Python 
