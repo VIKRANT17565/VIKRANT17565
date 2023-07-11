@@ -10,7 +10,7 @@
 
 
 ## 🚀 About Me
-I'm VIKRANT, Third Year(B.E. Computer Engineering) student at Thakur College Of Engineering and technology.
+I'm VIKRANT, B.E. Computer Engineering student at Thakur College Of Engineering and technology.
 
 
 skills:  
@@ -21,10 +21,6 @@ Also familiar with
 - HTML, CSS and JavaScript
 - MySQL
 
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=VIKRANT17565&theme=merko&show_icons=true)](https://github.com/VIKRANT17565)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=VIKRANT17565&left_color=black&right_color=GREEN)
 
 
 
